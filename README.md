@@ -22,7 +22,6 @@ Me desenvolvendo cada vez mais
   
 </div>
 
-![Snake animation](https://github.com/FariassArthur/FariassArthur/blob/output/github-contribution-grid-snake.svg)
 
 
 
