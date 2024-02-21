@@ -2,7 +2,7 @@
 Me desenvolvendo cada vez mais
 
 - 💼 Me desenvolvendo no front-end
-- 🖥️ Estudando TypeScript
+- 🖥️ Estudando Express
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
