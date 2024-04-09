@@ -1,7 +1,7 @@
 ### Olá! Me chamo Arthur Farias
 Me desenvolvendo cada vez mais
 
-- 💼 Me desenvolvendo no front-end
+- 💼 Me desenvolvendo como Full Stack
 - 🖥️ Estudando Express
 - 😄 Pronouns: ele/dele
 
