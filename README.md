@@ -111,8 +111,10 @@
     </a>
 </p>
 
-### Redes Sociais
-<p>
+
+## Redes Sociais
+<div styles="display: inline_block">
+  <img align="right" width="90" height="100" src="https://i.picasion.com/pic92/123065a50357056975405ec0ee832693.gif" width="300" height="300" border="0" alt="https://picasion.com/" />
     <a href="https://www.github.com/FariassArthur" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
@@ -122,4 +124,4 @@
     <a href="https://www.linkedin.com/in/arthur-farias-571623245/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-</p>
+</div>
