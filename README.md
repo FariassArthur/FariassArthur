@@ -1,9 +1,5 @@
 # Olá! 👋 Me chamo Arthur Farias
-<div>
-  <a href="https://github.com/FariassArthur" style="text-decoration:none;">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=FariassArthur&show_icons=true&theme=dracula" />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FariassArthur&langs_count=16&theme=dracula" />
-</div>
+
 
 
 ## Skills  
